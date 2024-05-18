@@ -31,14 +31,10 @@ The `UniqueInt` class contains several static methods to handle the processing o
   - Converts the valid integer part to an integer and returns it.
 
 ##### **`custom_strip` Method**
-- **Input**: A string.
-- **Output**: Stripped string.
 - **Function**:
   - Manually removes leading and trailing whitespace (spaces and tabs).
 
 ##### **`custom_split` Method**
-- **Input**: A string.
-- **Output**: List of parts split by whitespace.
 - **Function**:
   - Splits the string by spaces and tabs into a list of parts.
 
@@ -55,8 +51,6 @@ The `UniqueInt` class contains several static methods to handle the processing o
   - Checks if the value exists in the list.
 
 ##### **`custom_sort` Method**
-- **Input**: A list of integers.
-- **Output**: Sorted list of integers.
 - **Function**:
   - Implements a simple bubble sort algorithm to sort the list of integers.
 
